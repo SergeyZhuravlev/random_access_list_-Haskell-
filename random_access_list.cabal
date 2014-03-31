@@ -1,0 +1,13 @@
+name: ral
+version: 0.1.0.0
+cabal-version: >=1.8
+build-type: Simple
+license: AllRightsReserved
+data-dir: ""
+
+executable random_access_list
+    build-depends: base, QuickCheck, random
+    buildable: True
+    other-modules: MAIN
+    Main-is: MAIN.hs
+    -- ghc-options:     -Wall

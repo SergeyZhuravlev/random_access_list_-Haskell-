@@ -24,3 +24,5 @@ Simple random access list (fast prototyping for C++ language).
 Use indices as iterators and it is not stable despite of iterator at ::std::list<T>.
 Average and worst case operation complexity and memory consumption is O(log n) for all operations with one element.
 Average operation complexity of iteration to next element is O(1).
+
+Let see to MAIN.hs.

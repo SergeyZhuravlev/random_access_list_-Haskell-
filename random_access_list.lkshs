@@ -1,0 +1,18 @@
+Version of session file format:
+               1
+Time of storage:
+               "Mon Mar 31 23:17:59 MSK 2014"
+Layout:        HorizontalP (VerticalP (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 4, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) 629) (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = -1, detachedId = Nothing, detachedSize = Nothing}) 853
+Population:    [(Just (ErrorsSt ErrorsState),[SplitP TopP,SplitP LeftP]),(Just (FilesSt FilesState),[SplitP TopP,SplitP LeftP]),(Just (InfoSt (InfoState Nothing)),[SplitP TopP,SplitP LeftP]),(Just (LogSt LogState),[SplitP TopP,SplitP LeftP]),(Just (BufferSt (BufferState "/home/storm/leksah/random_access_list/MAIN.hs" 923)),[SplitP TopP,SplitP RightP]),(Just (ModulesSt (ModulesState 186 (SystemScope,False) (Nothing,Nothing) (ExpanderState {packageExp = ([],[]), packageExpNoBlack = ([],[]), packageDExp = ([],[]), packageDExpNoBlack = ([],[]), workspaceExp = ([],[]), workspaceExpNoBlack = ([],[]), workspaceDExp = ([],[]), workspaceDExpNoBlack = ([],[]), systemExp = ([],[]), systemExpNoBlack = ([],[])}))),[SplitP TopP,SplitP LeftP]),(Just (SearchSt (SearchState {searchString = "should_insertable", searchScope = SystemScope, searchMode = Prefix {caseSense = False}})),[SplitP TopP,SplitP LeftP]),(Just (WorkspaceSt WorkspaceState),[SplitP TopP,SplitP LeftP]),(Just (BufferSt (BufferState "/home/storm/leksah/random_access_list/random_access_list.cabal" 176)),[SplitP TopP,SplitP RightP])]
+Window size:   (1855,1056)
+Completion size:
+               (750,400)
+Workspace:     Just "/home/storm/leksah/random_access_list/random_access_list.lkshw"
+Active pane:   Just "MAIN.hs"
+Toolbar visible:
+               True
+FindbarState:  (True,FindState {entryStr = "fold", entryHist = ["fold","t","get","should_insert_on_index_at_list"], replaceStr = "", replaceHist = [], caseSensitive = False, entireWord = False, wrapAround = False, regex = False, lineNr = 1})
+Recently opened files:
+               ["/home/storm/leksah/random_access_list/random_access_list.lkshw","/home/storm/.leksah-0.12/leksah-welcome/src/Main.hs"]
+Recently opened workspaces:
+               ["/home/storm/leksah.lkshw"]
