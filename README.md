@@ -19,6 +19,8 @@ Simple random access list (fast prototyping for C++ language).
   * ral not derived and not instanced many required by Haskell type classes, for example "Foldable", "Monoid" and many others.
   * Not coorected strictness and laziness.
   * Functions not writed with tail recursion some times.
-  Use indices as iterators and it is not stable despite of iterator at ::std::list<T>.
-  Average and worst case operation complexity and memory consumption is O(log n) for all operations with one element.
-  Average operation complexity of iteration to next element is O(1).
+
+
+Use indices as iterators and it is not stable despite of iterator at ::std::list<T>.
+Average and worst case operation complexity and memory consumption is O(log n) for all operations with one element.
+Average operation complexity of iteration to next element is O(1).
