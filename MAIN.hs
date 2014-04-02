@@ -16,7 +16,7 @@ Simple random access list (fast prototyping on Haskell for C++ language).
   * ral interface not exported as module.
   * ral not derived and not instanced many required by Haskell type classes, for example "Foldable", "Monoid" and many others.
   * Not corrected strictness and laziness.
-  * Functions not writed with tail recursion, not optimized memory consumption of tree.
+  * Functions not written with tail recursion, not optimized memory consumption of tree.
   * Not configured git:ignore list.
 
 
