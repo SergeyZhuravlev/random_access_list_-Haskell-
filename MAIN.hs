@@ -175,7 +175,7 @@ check_and_fix_balance t@(Node l r _ _ _)
 
 indexSkipLeft lc i = i - (size lc + 1)
 
-max_tree_height_disbalance = 1
+max_tree_height_disbalance = 2
 
 --tests:
 should_be_equality_comparable l l2 =
