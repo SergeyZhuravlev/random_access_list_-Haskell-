@@ -3,7 +3,7 @@ random_access_list_-Haskell-
 
 Simple random access list (fast prototyping on Haskell for C++ language).
 
-  It is random access list (ral) based on simplest self-balancing binary
+  It is random access list (ral) based on simplest self-balancing (~AVL) binary
   search tree with implicit keys.
   Code is pure functional.
   Tested by unit test framework QuickCheck.
