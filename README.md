@@ -9,7 +9,7 @@ Simple random access list (fast prototyping on Haskell for C++ language).
   Tested by unit test framework QuickCheck.
   Project writed as fast prototyping for C++ language
   and it have many disadvantages for Haskell:
-  * Not splited for files.
+  * Not splited into files.
   * Haven't function signatures.
   * Not full covered by unit tests.
   * Not use selfdocumented code style.
